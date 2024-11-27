@@ -8,7 +8,7 @@
 
 📫 Reach me at: tungduong123321t@gmail.com
 
-😄 Pronouns: He/Him
+😄 Pronouns: He
 
 ⚡ Fun fact: I'm a coffee enthusiast who loves coding in cozy cafes and finding inspiration through my favorite brew!
 
