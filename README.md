@@ -1,62 +1,84 @@
-# Duong Tung
-
-**Full Stack Developer** | **PHP & Laravel Specialist** | **React Developer**
-
----
-
-## About
-
-Senior developer with expertise in modern web technologies, specializing in PHP/Laravel backend development and React/TypeScript frontend solutions. Passionate about building scalable applications and clean, maintainable code architecture.
-
-**Current Focus:** Building high-performance web applications with Laravel APIs and React frontends
-
-## Technical Expertise
-
-### Backend Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### Database & Infrastructure
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## GitHub Statistics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xtduong&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=00d9ff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtduong&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Duong%20Tung&fontSize=60&fontColor=fff&animation=twinkling&fontAlign=70&fontAlignY=40&desc=Code%20%7C%20Anime%20%7C%20Coffee&descAlign=70&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtduong&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=00d9ff&fire=00d9ff&currStreakLabel=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&background=0D1117FF&center=true&vCenter=true&width=500&lines=PHP+%26+Laravel+Developer;React+%26+TypeScript+Enthusiast;Building+Beautiful+Web+Apps;Coffee+%2B+Code+%2B+Anime+%3D+Life" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## Contact
+## About Me
 
-**Email:** tungduong123321t@gmail.com
-**Telegram:** [@duong_h5](https://t.me/duong_h5)
-**Location:** Vietnam
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  languages: string[];
+  frameworks: string[];
+  hobbies: string[];
+}
 
----
+const duong: Developer = {
+  name: "Duong Tung",
+  location: "Vietnam",
+  languages: ["PHP", "JavaScript", "TypeScript", "Python"],
+  frameworks: ["Laravel", "React", "Next.js", "Express"],
+  hobbies: ["Anime", "Coding", "Coffee", "Gaming"]
+};
+```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=Tech%20Stack&fontSize=30&fontColor=fff&animation=fadeIn" />
+</div>
+
+### Backend Magic
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python&theme=dark" />
+</div>
+
+### Frontend Artistry
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,html,css&theme=dark" />
+</div>
+
+### Database & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xtduong&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtduong&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&border_radius=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtduong&theme=synthwave&hide_border=true&background=0d1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=ffffff&border_radius=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xtduong&theme=synthwave&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=ffffff&area=true&hide_border=true&border_radius=10" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 3D Contribution Galaxy
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
+
+## Snake Game
 
 <div align="center">
   <picture>
@@ -64,4 +86,30 @@ Senior developer with expertise in modern web technologies, specializing in PHP/
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xtduong/xtduong/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xtduong/xtduong/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## Connect With Me
+
+<div align="center">
+  <a href="mailto:tungduong123321t@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&border_radius=10" />
+  </a>
+  <a href="https://t.me/duong_h5">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&border_radius=10" />
+  </a>
+  <a href="https://github.com/xtduong">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&border_radius=10" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=xtduong&color=FF6B9D&style=for-the-badge" />
 </div>
