@@ -3,121 +3,81 @@
 </div>
 
 <div align="center">
-  <h1 style="font-family: 'Courier New', monospace; font-style: italic; font-size: 60px; color: #FF6B9D; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-    <em>Tung Duong</em>
+  <h1 style="font-family: 'Inter', sans-serif; font-weight: 700; font-size: 48px; color: #ffffff; margin: 20px 0;">
+    Duong Tung
   </h1>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&background=0D1117FF&center=true&vCenter=true&width=600&lines=PHP+%26+Laravel+Expert;React+%26+TypeScript+Developer;Full+Stack+Engineer;Anime+%26+Code+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2500&pause=1000&color=FFFFFF&background=0D1117FF&center=true&vCenter=true&width=500&lines=Senior+Full+Stack+Developer;PHP+%26+Laravel+Specialist;React+%26+TypeScript+Expert;Building+Modern+Web+Solutions" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
-## About Me
+## About
 
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  passions: string[];
-  techStack: {
-    backend: string[];
-    frontend: string[];
-    database: string[];
-  };
-  currentlyLearning: string[];
-  funFact: string;
-}
+Senior software engineer with 5+ years of experience in full-stack web development. Specialized in building scalable web applications using modern technologies and best practices.
 
-const tungDuong: Developer = {
-  name: "Tung Duong",
-  location: "Vietnam",
-  passions: ["Clean Code", "Anime", "Web Development", "Coffee"],
-  techStack: {
-    backend: ["PHP", "Laravel", "Node.js", "Express"],
-    frontend: ["React", "TypeScript", "Next.js", "JavaScript"],
-    database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"]
-  },
-  currentlyLearning: ["Advanced Laravel", "React Native", "GraphQL"],
-  funFact: "I debug code while watching anime"
-};
-```
+**Current Focus:** Enterprise-level applications with PHP/Laravel backends and React/TypeScript frontends
 
-## Tech Stack
+**Location:** Vietnam
+
+---
+
+## Technical Skills
 
 <div align="center">
 
-### Backend Development
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,composer&theme=dark" />
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css&theme=dark" />
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git&theme=dark" />
+### Database & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xtduong&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtduong&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xtduong&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtduong&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtduong&theme=synthwave&hide_border=true&background=0d1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtduong&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 </div>
 
-## Activity Visualization
+---
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xtduong/xtduong/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xtduong/xtduong/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xtduong/xtduong/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xtduong&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=ffffff&area=true&hide_border=true" />
-</div>
-
-## Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xtduong&theme=synthwave&no-frame=true&no-bg=true&margin-w=15&column=7" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## Connect With Me
+## Contact
 
 <div align="center">
   <a href="mailto:tungduong123321t@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://t.me/duong_h5">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/xtduong">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xtduong&color=FF6B9D&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=xtduong&color=0078D4&style=flat" />
 </div>
