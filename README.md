@@ -1,119 +1,67 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hello%20I'm%20Mr%20Duong&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" />
-</div>
+# Duong Tung
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&background=0D1117FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mr+Duong;PHP+%26+Laravel+Developer;React+%26+TypeScript+Specialist;Full+Stack+Engineer" />
-</div>
+**Full Stack Developer** | **PHP & Laravel Specialist** | **React Developer**
 
-<p align="center">
-<a href="https://github.com/xtduong"><img src="https://img.shields.io/github/followers/xtduong?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" alt="GitHub followers"></a>
-<a href="https://github.com/xtduong"><img src="https://komarev.com/ghpvc/?username=xtduong&style=for-the-badge&color=58a6ff" alt="Profile views"></a>
-</p>
+---
 
-## 🎯 About Me
+## About
 
-```javascript
-const mrDuong = {
-    pronouns: "He/Him",
-    location: "Vietnam",
-    currentFocus: "Full Stack Development with PHP & Laravel",
-    technologies: {
-        backEnd: ["PHP", "Laravel", "Node.js", "Express.js"],
-        frontEnd: ["React", "TypeScript", "JavaScript", "Next.js"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-        tools: ["Git", "Docker", "Composer", "npm", "Webpack"]
-    },
-    currentlyLearning: ["Laravel Advanced Features", "React Native", "GraphQL"],
-    architecture: ["RESTful APIs", "Microservices", "MVC Pattern"],
-    funFact: "Code quality enthusiast who believes in clean, maintainable code"
-};
-```
+Senior developer with expertise in modern web technologies, specializing in PHP/Laravel backend development and React/TypeScript frontend solutions. Passionate about building scalable applications and clean, maintainable code architecture.
 
-## 🔥 Streak Stats
+**Current Focus:** Building high-performance web applications with Laravel APIs and React frontends
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xtduong&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=00D9FF&sideLabels=00D9FF&currStreakLabel=00D9FF&ring=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="Mr Duong's GitHub Streak"/>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xtduong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtduong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
-
-## Tech Stack
-
-<div align="center">
+## Technical Expertise
 
 ### Backend Development
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,composer" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css" />
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Databases & Storage
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+### Database & Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### Development Tools
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,webpack,npm" />
+---
 
-### Testing & Deployment
-<img src="https://skillicons.dev/icons?i=phpunit,jest,github,gitlab,aws" />
-
-</div>
-
-## 3D Contribution Graph
-
-<div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
-</div>
-
-## GitHub Contribution Snake
+## GitHub Statistics
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xtduong/xtduong/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xtduong/xtduong/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xtduong/xtduong/output/github-contribution-grid-snake.svg">
-</picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xtduong&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=00d9ff&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtduong&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" />
 </div>
-
-## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=xtduong&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Mr Duong's GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtduong&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=00d9ff&fire=00d9ff&currStreakLabel=ffffff" />
 </div>
 
-## 📈 Activity Graph
+---
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xtduong&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true"/>
-</div>
+## Contact
 
-## 📫 Connect With Me
-
-<div align="center">
-<a href="mailto:tungduong123321t@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://t.me/duong_h5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://github.com/xtduong"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
-
-## 2024 Goals
-
-- [ ] Master Laravel Advanced Features & Best Practices
-- [ ] Build Scalable React TypeScript Applications
-- [ ] Contribute to Open Source PHP & React Projects
-- [ ] Implement Microservices Architecture
-- [ ] Create High-Performance APIs with Laravel & Node.js
+**Email:** tungduong123321t@gmail.com
+**Telegram:** [@duong_h5](https://t.me/duong_h5)
+**Location:** Vietnam
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 <div align="center">
-<i>⭐️ From <a href="https://github.com/xtduong">Mr Duong</a> with ❤️</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xtduong/xtduong/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xtduong/xtduong/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xtduong/xtduong/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
