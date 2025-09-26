@@ -9,14 +9,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2500&pause=1000&color=FFFFFF&background=0D1117FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;PHP+%26+Laravel+Enthusiast;React+%26+TypeScript+Explorer;Crafting+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2500&pause=1000&color=FFFFFF&background=0D1117FF&center=true&vCenter=true&width=500&lines=Web+Developer;PHP+%26+Laravel+Enthusiast;React+%26+TypeScript+Explorer;Crafting+Digital+Experiences" />
 </div>
 
 ---
 
 ## About
 
-I am a passionate full-stack developer who finds immense satisfaction in transforming abstract ideas into functional digital solutions. My journey in software development has been characterised by continuous learning and an unwavering commitment to writing clean, maintainable code.
+I am a passionate web developer who finds immense satisfaction in transforming abstract ideas into functional digital solutions. My journey in software development has been characterised by continuous learning and an unwavering commitment to writing clean, maintainable code.
 
 **Current Focus:** Developing robust web applications that seamlessly integrate PHP/Laravel backends with React/TypeScript frontends
 
@@ -66,7 +66,7 @@ I am a passionate full-stack developer who finds immense satisfaction in transfo
 
 ---
 
-## Professional Contact
+## Contact
 
 <div align="center">
   <a href="mailto:tungduong123321t@gmail.com">
