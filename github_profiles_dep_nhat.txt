@@ -1,0 +1,187 @@
+# GITHUB PROFILES ĐẸP NHẤT - DANH SÁCH LINKS CỤ THỂ
+
+## I. REPOSITORIES TỔNG HỢP
+
+### 1. Awesome GitHub Profile README Collections
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://github.com/EddieHubCommunity/awesome-github-profiles
+- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
+- https://github.com/suryakantamangaraj/AwesomeGithubProfileTemplates
+- https://github.com/matiassingers/awesome-readme
+- https://zzetao.github.io/awesome-github-profile/
+- https://durgeshsamariya.github.io/awesome-github-profile-readme-templates/
+
+### 2. Templates Repository
+- https://github.com/othneildrew/Best-README-Template
+- https://github.com/lynnlangit/great-github-profiles
+
+## II. GITHUB PROFILES NỔI BẬT
+
+### 1. GitHub Actions Profiles 🤖
+- https://github.com/abhisheknaiidu (Abhishek Naidu)
+- https://github.com/anuraghazra (Anurag Hazra - GitHub Stats creator)
+- https://github.com/SimonWillison (Simon Willison)
+- https://github.com/bdougie (Brian Douglas)
+- https://github.com/sw-yx (Shawn Wang)
+- https://github.com/mokkapps (Michael Hoffmann)
+- https://github.com/athul (Athul Cyriac Ajay)
+
+### 2. Game Mode Profiles 🚀
+- https://github.com/timburgan (Tim Burgan)
+- https://github.com/bensampica (Ben Sampica)
+- https://github.com/kavishhukmani (Kavish Hukmani)
+- https://github.com/JonathanGin52 (Jonathan Gin)
+
+### 3. Code Mode Profiles 👨🏽‍💻
+- https://github.com/thaiane (Thaiane Braga)
+- https://github.com/ABSphreak (Ash Baker)
+- https://github.com/anmol098 (Anmol Singh)
+
+### 4. Anime Style Profiles 👾
+- https://github.com/ing03201 (Ing)
+- https://github.com/edisonlee55 (Edison Lee)
+- https://github.com/Ashutosh00710 (Ashutosh)
+
+### 5. Minimalistic Profiles ✨
+- https://github.com/caneco (Caneco)
+- https://github.com/lauragift21 (Gift Egwuenu)
+- https://github.com/Kelechi-Precious (Kelechi Precious Nwachukwu)
+
+## III. TOOLS & GENERATORS
+
+### 1. Profile README Generators
+- https://rahuldkjain.github.io/gh-profile-readme-generator/
+- https://profile-readme-generator.com
+- https://gprm.itsvg.in
+- https://githubprofile.com
+- https://profilinator.rishav.dev
+- https://arturssmirnovs.github.io/github-profile-readme-generator/
+
+### 2. GitHub Stats Tools
+- https://github.com/anuraghazra/github-readme-stats
+- https://github-readme-stats.vercel.app/api
+- https://github.com/omsimos/github-stats
+- https://github-stats.omsimos.com
+- https://gh-stats-gen.vercel.app
+- https://github.com/marrrkkk/github-stats-card
+
+### 3. Streaks & Activity
+- https://github.com/DenverCoder1/github-readme-streak-stats
+- https://github-readme-streak-stats.herokuapp.com
+- https://github.com/jamesgeorge007/github-activity-readme
+
+### 4. Visitor Counters & Badges
+- https://visitor-badge.glitch.me
+- https://shields.io
+- https://img.shields.io
+- https://github.com/antonkomarev/github-profile-views-counter
+
+## IV. VIETNAMESE RESOURCES
+
+### 1. Hướng Dẫn Tiếng Việt
+- https://blog.thanhnamnguyen.dev/lam-dep-cho-github-profile-readme-cua-ban
+- https://topdev.vn/blog/lam-dep-cho-github-profile-readme/
+- https://www.thanhnamnguyen.dev/blog/lam-dep-cho-github-profile-readme-cua-ban/
+- https://codegym.cc/vi/groups/posts/vi.589.viet-so-yeu-ly-lich-tren-github-huong-dan-ngan
+
+### 2. Video Tutorials Vietnamese
+- https://www.youtube.com/watch?v=H_THoIJDaU4 (Tạo một trang GitHub Profile phiên bản vũ trụ huyền ảo)
+
+## V. TUTORIALS & ARTICLES
+
+### 1. English Tutorials
+- https://dev.to/jfmartinz/level-up-your-github-profile-with-these-20-amazing-resources-524p
+- https://hasnainm.hashnode.dev/revamp-your-github-profile-the-ultimate-2025-readme-template-guide
+- https://githobby.com/blog/how-to-create-amazing-github-profile
+- https://techhub.iodigital.com/articles/how-to-make-your-github-profile-stand-out
+- https://dev.to/jdg2896/how-to-make-your-awesome-github-profile-hog
+- https://dev.to/github/10-standout-github-profile-readmes-h2o
+- https://dev.to/parth_johri/create-an-attractive-github-profile-readme-noj
+- https://dev.to/keshabkjha/level-up-your-github-profile-a-complete-guide-to-stand-out-and-shine-5f5p
+
+### 2. Video Tutorials English
+- https://www.youtube.com/watch?v=rCt9DatF63I (Professional Github Readme Profile)
+
+### 3. Documentation
+- https://docs.github.com/en/account-and-profile/concepts/about-your-profile
+- https://jonathansoma.com/fancy-github/github-profile/
+
+## VI. SPECIAL TOOLS
+
+### 1. Dynamic Content Tools
+- https://github.com/jamesgeorge007/github-activity-readme
+- https://github.com/athul/waka-readme
+- https://github.com/matchai/waka-readme-stats
+- https://github.com/marketplace/actions/profile-readme-development-stats
+
+### 2. Music & Entertainment
+- https://github.com/kittinan/spotify-github-profile
+- https://github.com/novatorem/novatorem
+- https://spotify-github-profile.vercel.app
+
+### 3. Social Media Integration
+- https://github.com/gautamkrishnar/blog-post-workflow
+- https://github.com/omidnikrahimi/github-readme-linkedin
+- https://github.com/gautamkrishnar/github-readme-medium
+- https://github.com/omidnikrahimi/github-readme-stackoverflow
+
+### 4. Fun Elements
+- https://github.com/ABSphreak/readme-jokes
+- https://github.com/ryo-ma/github-profile-trophy
+- https://github.com/omidnikrahimi/github-readme-twitter
+- https://readme-jokes.vercel.app
+
+## VII. THEMES & CUSTOMIZATION
+
+### 1. Theme Collections
+- Dark themes: dracula, radical, merko, gruvbox
+- Light themes: default, github, graywhite
+- Colorful themes: tokyonight, onedark, cobalt, synthwave
+- Custom themes available at: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+
+### 2. Custom SVG & Graphics
+- https://github.com/DenverCoder1/readme-typing-svg
+- https://readme-typing-svg.herokuapp.com/demo/
+- https://github.com/kyechan99/capsule-render
+
+## VIII. INSPIRATION GALLERIES
+
+### 1. Showcase Websites
+- https://github.com/topics/awesome-github-profiles
+- https://github.com/topics/github-profile-readme
+- https://github.com/topics/profile-readme-generator
+
+### 2. Featured Examples
+- https://dev.to/dionarodrigues/creating-amazing-github-profiles-readme-5h31
+- https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/
+
+## IX. DEVELOPMENT TOOLS
+
+### 1. Markdown Tools
+- https://stackedit.io/ (Markdown editor)
+- https://dillinger.io/ (Online Markdown editor)
+- https://typora.io/ (Markdown editor)
+
+### 2. Image & GIF Tools
+- https://ezgif.com/ (GIF maker)
+- https://giphy.com/ (GIF library)
+- https://unsplash.com/ (Free images)
+
+## X. API ENDPOINTS
+
+### 1. GitHub README Stats API
+- Stats: https://github-readme-stats.vercel.app/api?username={USERNAME}
+- Languages: https://github-readme-stats.vercel.app/api/top-langs/?username={USERNAME}
+- Wakatime: https://github-readme-stats.vercel.app/api/wakatime?username={USERNAME}
+
+### 2. Other APIs
+- Streak Stats: https://github-readme-streak-stats.herokuapp.com/?user={USERNAME}
+- Trophy: https://github-profile-trophy.vercel.app/?username={USERNAME}
+- Activity: https://github-readme-activity-graph.cyclic.app/graph?username={USERNAME}
+
+---
+Generated on: 2025-09-26 18:30:24
+Total Links: 80+ unique URLs
+Categories: 10 main sections
+
+Note: Thay {USERNAME} bằng GitHub username của bạn khi sử dụng các API endpoints.

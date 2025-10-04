@@ -1,0 +1,158 @@
+﻿
+🎯 Mẫu GitHub Profile Đẹp Cho Duong + Hướng Dẫn Chi Tiết
+Tôi đã tạo cho bạn một mẫu GitHub profile hoàn chỉnh với dark theme và tự động cập nhật!
+📋 Hướng Dẫn Setup Từng Bước
+Bước 1: Tạo Repository Profile
+1. Truy cập GitHub và đăng nhập tài khoản
+2. Click "New Repository" (nút xanh lá)
+3. Đặt tên repository = username GitHub của bạn
+o Ví dụ: Nếu username là duongdev thì repo name cũng phải là duongdev
+4. Check ✅ "Add a README file"
+5. Chọn "Public" repository
+6. Click "Create Repository"
+Bước 2: Thêm Code Vào README
+1. Click vào file README.md trong repo vừa tạo
+2. Click nút "Edit" (icon bút chì)
+3. Xóa hết nội dung cũ
+4. Copy toàn bộ code từ file template tôi tạo ở trên
+5. Paste vào file README.md
+6. Thay thế thông tin cá nhân:
+# Thay đổi những chỗ này:
+- "duong" → username GitHub thực của bạn
+- "your.email@gmail.com" → email thật của bạn  
+- "yourlinkedin" → tên LinkedIn của bạn
+- "yourwebsite.com" → website cá nhân (nếu có)
+
+Bước 3: Cấu Hình GitHub Actions (Tự Động Cập Nhật)
+Tạo Snake Animation 🐍
+1. Tạo folder .github/workflows/ trong repo
+2. Tạo file snake.yml với nội dung:
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Cập nhật mỗi 12 giờ
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push github-contribution-grid-snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+Lưu ý quan trọng:
+⚠️ Sử dụng Platane/snk@v3 (không phải v2)
+⚠️ Dùng ${{ github.repository_owner }} thay vì hardcode username
+⚠️ Phải enable "Read and write permissions" trong Settings > Actions
+⚠️ Repository phải là Public
+
+Bước 4: Tùy Chỉnh Nâng Cao
+Thay Đổi Màu Sắc Theme
+# Màu hiện tại: Cyan Blue (#00D9FF)
+# Thay đổi trong các URL sau:
+
+Tokyo Night: &theme=tokyonight
+Dracula: &theme=dracula  
+One Dark: &theme=onedark
+GitHub Dark: &theme=github_dark
+Radical: &theme=radical
+
+Thêm Skill Icons
+# Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular" />
+
+# Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,go,rust,php" />
+
+# Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+
+Custom Typing Animation
+# Thay đổi text trong typing animation:
+&lines=Your+Text+Here+%F0%9F%91%8B;Second+Line+%F0%9F%9A%80
+
+# Ví dụ:
+&lines=Xin+chào!+Tôi+là+Dương+%F0%9F%91%8B;Developer+từ+Việt+Nam+%F0%9F%87%BB%F0%9F%87%B3
+
+Bước 5: Kiểm Tra & Tối Ưu
+Test Profile
+1. Truy cập github.com/yourusername
+2. Kiểm tra tất cả widgets hoạt động
+3. Test trên cả light và dark mode
+Sửa Lỗi Thường Gặp
+# Lỗi 1: Widgets không hiển thị
+- Kiểm tra username trong URLs đã đúng chưa
+- Đảm bảo repository là Public
+
+# Lỗi 2: Snake animation không chạy  
+- Check GitHub Actions có lỗi không
+- Xem tab "Actions" trong repository
+
+# Lỗi 3: Stats không cập nhật
+- Có thể do cache, đợi vài phút
+- Thêm ?v=1 vào cuối URL để force refresh
+
+🎨 Bonus: Dark Theme Hoàn Hảo
+Profile này được tối ưu cho GitHub Dark Mode với:
+* Background: #0D1117 (GitHub Dark)
+* Primary: #00D9FF (Cyan Blue)
+* Text: #FFFFFF (White)
+* Accent: #58A6FF (GitHub Blue)
+🚀 Kết Quả Cuối Cùng
+Sau khi hoàn thành, profile của bạn sẽ có:
+✅ Header động với tên và animation
+✅ Typing effect cực đẹp
+✅ GitHub stats real-time
+✅ Skill showcase với icons
+✅ Snake animation ăn contributions
+✅ Activity graph theo theme
+✅ Social links đầy đủ
+✅ Tự động cập nhật qua Actions
+Profile này sẽ gây ấn tượng mạnh với recruiters và developers khác! Chúc bạn thành công! 🎉
+
+⁂
+
+1. https://github.com/zluvsand/github_profile 
+2. https://github.com/durgeshsamariya/awesome-github-profile-readme-templates 
+3. https://www.youtube.com/watch?v=T_PKBNImooA 
+4. https://www.stefanjudis.com/notes/how-to-define-dark-light-mode-images-in-github-markdown/ 
+5. https://github.com/abhisheknaiidu/awesome-github-profile-readme 
+6. https://www.youtube.com/watch?v=GO_2mvaiY9s 
+7. https://github.com/anuraghazra/github-readme-stats/issues/1645 
+8. https://github.com/topics/profile-readme 
+9. https://dev.to/keshabkjha/level-up-your-github-profile-a-complete-guide-to-stand-out-and-shine-5f5p 
+10. https://stackoverflow.com/questions/65413712/changing-readme-md-image-display-conditional-to-github-light-mode-dark-mode 
+11. https://dev.to/thepiyushmalhotra/how-to-design-an-attractive-github-profile-readme-1ppg 
+12. https://www.freecodecamp.org/news/create-personalized-github-profile-page/ 
+13. https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile 
+14. https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/ac29ea3d38aff49bf6a744ae617ead42/7be198b2-e9f1-468e-8f4f-b1b26cba93ef/c40068e5.md 
+15. https://forum.typst.app/t/how-i-write-my-github-readme-in-typst-but-also-support-dark-mode/2311 
+16. https://dev.to/parth_johri/create-an-attractive-github-profile-readme-noj 
+17. https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/ 
+18. https://github.blog/developer-skills/github/how-to-make-your-images-in-markdown-on-github-adjust-for-dark-mode-and-light-mode/ 
+19. https://www.youtube.com/watch?v=rCt9DatF63I 
+20. https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile 
+21. https://stackoverflow.com/questions/70538816/use-the-dark-mode-equivalent-of-the-github-pages-default-theme 
