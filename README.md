@@ -6,14 +6,22 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-`PHP` `Laravel` `JavaScript` `React` `TypeScript` `Node.js` `MySQL` `Docker` `Git`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,ts,nodejs,mysql,docker,git&theme=dark&perline=9" />
+</p>
 
-### 📫 Contact
+### Contact
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tungduong123321t@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/xtduong)
+<p align="center">
+  <a href="mailto:tungduong123321t@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/xtduong">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
